@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="C:\Users\Jorge Acopa\Documents\9-J\SERVICIOS WEB\Parcial 3\Practica5_A180114\Perros.xsl"?>
+
+<perros>
+	  <perro>
+	   <raza>Chihuahua</raza>
+	   <origen>Chihuahua, México</origen>
+	   <tamaño>Pequeño</tamaño>
+    </perro>
+    
+    <perro>
+      <raza>Schnauzer</raza>
+	    <origen>Alemania</origen>
+	    <tamaño>Pequeño</tamaño>
+    </perro>
+    
+	  <perro>
+	   <raza>Retriever</raza>
+	   <origen>Reino Unido, Escocia</origen>
+	   <tamaño>Grande</tamaño>
+    </perro>
+    
+    <perro>
+      <raza>Husky Siberiano</raza>
+	    <origen>Rusia, Siberia</origen>
+	    <tamaño>Grande</tamaño>
+    </perro>
+  </perros>
